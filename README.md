@@ -1,11 +1,10 @@
 
 - 👋 Hola, soy @irecolichelli
-- 👀 Estoy interesado/a en adquirir experiencia laboral en el mundo de la programación con el lenguaje Python y el ERP Odoo.
-- 🌱 Actualmente estoy aprendiendo a desarrollar en Odoo.
-- 💞️ Busco colaborar en una empresa desarrolladora de sofware que tenga proyectos en Odoo.
+- 👀 Estoy interesado/a en adquirir distintas experiencias en el mundo de la programación con el lenguaje Python y el ERP Odoo.
+- 🌱 Actualmente soy parte del equipo técnico de Exemax.
 - 📫 Cómo contactarme: irenecolichelli@gmail.com
 - 😄 Pronombres: 'Ire'
-- ⚡ Dato curioso: no tengo experiencia pero me apasiona la programación y aprendo muy rápido. 
+- ⚡ Dato curioso: me apasiona la programación y aprendo muy rápido. 
 
 
 <!---
